@@ -59,6 +59,6 @@ systemctl is-enabled Bitcoinhard #To check if Bitcoinhard service is enabled on 
 
 Any donation is highly appreciated
 
-**BTC**:
-**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E
+**BTC**: 3JmLrghU29FmiuVBYELnggXbytZDHXRGiT  
+**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
 **LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB
